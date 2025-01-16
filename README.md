@@ -8,7 +8,7 @@
 ## 🌟 Sobre mim  
 
 - 🔭 Atualmente, estou focado em **projetos pessoais** para aprimorar minhas habilidades.  
-- 🌱 Explorando o universo do **Java e Kotlin** e me aprofundando em tecnologias modernas.  
+- 🌱 Explorando o universo do **Java** e me aprofundando em tecnologias modernas.  
 - 💬 Adoro trocar ideias e resolver problemas! Pergunte o que quiser.  
 - 😄 **Pronomes:** Ele/Dele  
 - 🌐 **Portfólio:** [dantassolutions.netlify.app](https://dantassolutions.netlify.app)  
