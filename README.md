@@ -15,10 +15,6 @@
 
 ---
 
-Segue a seção atualizada com as badges de **HTML** e **CSS** incluídas:  
-
----
-
 ## 🚀 Tecnologias e Ferramentas  
 
 ### Linguagens  
