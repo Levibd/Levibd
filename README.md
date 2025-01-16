@@ -1,5 +1,5 @@
 
-# 👋 Salut! Eu sou o **Levi Braga Dantas**  
+# 👋 Salut! Bem-vindo ao meu mundo de **código**!  
 
 🚀 **Desenvolvedor em evolução** | 💻 Apaixonado por tecnologia e aprendizado constante  
 
@@ -7,7 +7,7 @@
 
 ## 🌟 Sobre mim  
 
-- 🔭 Atualmente, estou focado em **projetos pessoais** para aprimorar minhas habilidades.  
+- 🔭 Meu objetivo é contribuir para projetos que realmente façam a diferença.  
 - 🌱 Explorando o universo do **Java** e me aprofundando em tecnologias modernas.  
 - 💬 Adoro trocar ideias e resolver problemas! Pergunte o que quiser.  
 - 😄 **Pronomes:** Ele/Dele  
@@ -65,4 +65,4 @@ Aplicação desktop para gerenciamento de departamentos e vendedores.
 ## 🌐 Conecte-se comigo  
 
 - **📧 Email:** [levibdantas@gmail.com](mailto:levibdantas@gmail.com)  
-- **💼 LinkedIn:** [linkedin.com/in/levibragadantas](#)  
+- **💼 LinkedIn:** [linkedin.com/in/levibragadantas](https://www.linkedin.com/in/levi-dantas-a088a318b/)  
