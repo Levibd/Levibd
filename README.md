@@ -29,17 +29,17 @@
 ### 📱 **Vamos Rachar**  
 Aplicativo que facilita dividir contas entre amigos de forma prática.  
 **Tecnologias:** Java, Swing  
-[🔗 Ver projeto](#)  
+[🔗 Ver projeto](https://github.com/Levibd/App-VamosRachar01)  
 
 ### ♟️ **Chess System Java**  
 Um sistema de xadrez para aprimorar lógica e orientação a objetos.  
 **Tecnologias:** Java  
-[🔗 Ver projeto](#)  
+[🔗 Ver projeto](https://github.com/Levibd/chess-system-java)  
 
 ### 📊 **Workshop Spring Boot MongoDB**  
 API RESTful para gerenciamento de usuários e postagens.  
 **Tecnologias:** Spring Boot, MongoDB  
-[🔗 Ver projeto](#)  
+[🔗 Ver projeto](https://github.com/Levibd/workshop-spring-boot-mongodb)  
 
 ### 🎨 **Dantas Solutions**  
 Meu portfólio pessoal onde apresento meus projetos e habilidades.  
@@ -49,7 +49,7 @@ Meu portfólio pessoal onde apresento meus projetos e habilidades.
 ### 📑 **Workshop JavaFX JDBC**  
 Aplicação desktop para gerenciamento de departamentos e vendedores.  
 **Tecnologias:** JavaFX, JDBC, MySQL  
-[🔗 Ver projeto](#)  
+[🔗 Ver projeto](https://github.com/Levibd/workshop-javafx-jdbc)  
 
 ---
 
