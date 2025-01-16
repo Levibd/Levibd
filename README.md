@@ -41,11 +41,7 @@
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
 ![Zabbix](https://img.shields.io/badge/Zabbix-%23FB4B4B.svg?style=for-the-badge&logo=zabbix&logoColor=white)  
 
---- 
-
-Se precisar adicionar algo mais, é só avisar! 🚀
  
-
 ---
 
 ## 🛠️ Projetos em Destaque  
